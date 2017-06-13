@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string-array name="list_items">
+        <item>iPhone 6__845$</item>
+        <item>iPad Air__800$</item>
+        <item>iPad Mini 2__500$</item>
+        <item>Galaxy Note 4__740$</item>
+        <item>Galaxy Alpha__599$</item>
+        <item>Galaxy Golden__950$</item>
+        <item>iPhone 6__845$</item>
+        <item>iPad Air__800$</item>
+        <item>iPad Mini 2__500$</item>
+        <item>Galaxy Note 4__740$</item>
+        <item>Galaxy Alpha__599$</item>
+        <item>Galaxy Golden__950$</item>
+        <item>iPhone 6__845$</item>
+        <item>iPad Air__800$</item>
+        <item>iPad Mini 2__500$</item>
+        <item>Galaxy Note 4__740$</item>
+        <item>Galaxy Alpha__599$</item>
+        <item>Galaxy Golden__950$</item>
+        <item>iPhone 6__845$</item>
+        <item>iPad Air__800$</item>
+        <item>iPad Mini 2__500$</item>
+        <item>Galaxy Note 4__740$</item>
+        <item>Galaxy Alpha__599$</item>
+        <item>Galaxy Golden__950$</item>
+    </string-array>
+</resources>
